@@ -71,4 +71,4 @@ for g in Games:
 
 
 print("Game IDs are: " + str(GameTotalPower))
-print("Game IDs answer is: 2286")
+print("Game IDs answer is: 56580")
